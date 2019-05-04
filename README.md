@@ -1,0 +1,2 @@
+# AntiCobblegen
+Disables cobble generation
