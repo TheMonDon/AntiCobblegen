@@ -1,0 +1,10 @@
+name: AntiCobblegen
+version: ${project.version}
+main: me.TheMonDon.AntiCobblegen
+authors: [TheMonDon]
+description: Disables cobble generation
+website: https://www.crafters-island.com
+commands:
+  anticobblegen:
+    description: SlimePad command
+    aliases: [acg, antic]
